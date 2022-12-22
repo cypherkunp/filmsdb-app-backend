@@ -21,7 +21,7 @@
     "fawn": "^2.1.5",
     "joi": "^13.7.0",
     "joi-objectid": "^2.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "mongoose": "^5.6.3",
