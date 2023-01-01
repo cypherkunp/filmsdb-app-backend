@@ -14,7 +14,7 @@
   "dependencies": {
     "@hapi/joi": "^15.1.0",
     "bcrypt": "^3.0.6",
-    "config": "^1.31.0",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-async-errors": "^2.1.2",
